@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @j-ys
-- 👀 Deep Learning, Computer Vision for Autonomous Vehicle
+- 👀 Deep Learning, Machine Learning, Computer Vision for Autonomous Vehicle
