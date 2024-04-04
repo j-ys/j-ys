@@ -38,9 +38,8 @@ TERM|RANKING|Place|TOPIC
 |2022_1|1st Prize|Basic Capstone Design, Kyonggi Univ.|Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety
 |2022-1|1st Prize|BARUN problem-solving project, Kyonggi Univ. | Development of an autonomous vehicle based on deep learning-based object recognition technology and automatic reporting system
 |2022_1|3rd Prize|2022 KIIT Summer Conference | Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety
-|2022_2| |KMU Autonomous Driving Contest|xycar simulator, Camera calibration, lane recognition
+|2022_2|3rd Prize|SW Imaginary Company Project Contest | Drone delivery system, Kakao API notification service
 |2020_1|Academic scholarship|Kyonggi University, Korea|
-||I'll write soon...||
 
 
 ## ✍️ Skills
