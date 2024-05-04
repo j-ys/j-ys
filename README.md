@@ -7,7 +7,7 @@
 I'm studying hard to become an AI developer in autonomous driving.
 
 ## 💡 Research Interest
-Autonomous Driving Intelligence, Computer Vision, Machine Learning
+Autonomous Driving Intelligence, Robotics, Computer Vision, Machine Learning
 
 ## 🖥️ Research Experiences
 **ETRI**(Electronics and Telecommunications Research Institute), Korea ```(01/2024 ~ 02/2024)```
@@ -31,6 +31,9 @@ Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 
 [2] **"Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety"**
 ``` The Proceeding of the 2022 KIIT Summer Conference```
+
+[3] **"Real-Time Tracking of Protected Individuals and Population Congestion Analysis System"**
+``` The Proceeding of the 2024 KIIT Summer Conference```
 
 ## ✨ Awards and Honors
 TERM|RANKING|Place|TOPIC
