@@ -26,18 +26,22 @@ Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 
 
 ## 📑 Publications
-**[SCIE]**
+**[International Conference]**
 
 "Autonomous Drone-Chasing System: A Comprehensive Solution for Reducing the Risk of Mitigation Failure"
 ``` 2023 Seventh IEEE International Conference on Robotic Computing (IRC)```
 
-**[Non-SCIE]**
+**[Korean Conference]**
+
+"Improved Re-identification Performance in Super-resolution Image based Protected Individuals Tracking System" **(1st Author)**
+``` The 19th Asia Pacific International Conference on Information Science and Technology ```
+
+
+"Real-Time Tracking of Protected Individuals and Population Congestion Analysis System" **(1st Author)**
+``` The Proceeding of the 2024 KIIT Summer Conference```
 
 "Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety"
 ``` The Proceeding of the 2022 KIIT Summer Conference```
-
-"Real-Time Tracking of Protected Individuals and Population Congestion Analysis System"
-``` The Proceeding of the 2024 KIIT Summer Conference```
 
 ## ✨ Awards and Honors
 TERM|RANKING|Place|TOPIC
