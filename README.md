@@ -4,10 +4,10 @@
 
 
 ## 👩‍💻 Hi, I'm Youngseo
-I'm studying hard to become an AI developer in autonomous driving.
+I'm studying hard to become an AI engineer
 
 ## 💡 Research Interest
-Autonomous Driving Intelligence, Robotics, Computer Vision, Machine Learning
+Computer Vision, Machine Learning, Autonomous Driving Intelligence
 
 ## 🖥️ Research Experiences
 **ETRI**(Electronics and Telecommunications Research Institute), Korea ```(01/2024 ~ 02/2024)```
@@ -31,10 +31,10 @@ Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 "Autonomous Drone-Chasing System: A Comprehensive Solution for Reducing the Risk of Mitigation Failure"
 ``` 2023 Seventh IEEE International Conference on Robotic Computing (IRC)```
 
-**[Korean Conference]**
-
 "Improved Re-identification Performance in Super-resolution Image based Protected Individuals Tracking System" **(1st Author)**
 ``` The 19th Asia Pacific International Conference on Information Science and Technology ```
+
+**[Korean Conference]**
 
 
 "Real-Time Tracking of Protected Individuals and Population Congestion Analysis System" **(1st Author)**
@@ -46,7 +46,9 @@ Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 ## ✨ Awards and Honors
 TERM|RANKING|Place|TOPIC
 --|--|--|--
-|2022_1|1st Prize|Basic Capstone Design, Kyonggi Univ.|Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety
+|2024_1|2st Prize|Advanced Capstone Design, Kyonggi Univ.| Real-Time Tracking of Protected Individuals and Population Congestion Analysis System
+|2024_1|3rd Prize|2024 KIIT Summer Conference | Real-Time Tracking of Protected Individuals and Population Congestion Analysis System
+|2022_1|1st Prize|Basic Capstone Design, Kyonggi Univ.| Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety
 |2022_1|1st Prize|BARUN problem-solving project, Kyonggi Univ. | Development of an autonomous vehicle based on deep learning-based object recognition technology and automatic reporting system
 |2022_1|3rd Prize|2022 KIIT Summer Conference | Mask R-CNN Based Occlusion Area Detection in Autonomous Driving Safety
 |2022_2|3rd Prize|SW Imaginary Company Project Contest | Drone delivery system, Kakao API notification service
