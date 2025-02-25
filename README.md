@@ -4,12 +4,15 @@
 
 
 ## 👩‍💻 Hi, I'm Youngseo
-I'm studying hard to become an AI engineer
+I'm studying hard to become an 3D Vision AI engineer
 
 ## 💡 Research Interest
-Computer Vision, Machine Learning, Autonomous Driving Intelligence
+Computer Vision(3D), Autonomous Driving Intelligence, novel view synthesis
 
 ## 🖥️ Research Experiences
+**Yonsei University**, DAMIS LAB, Korea ```(07/2024 ~ 02/2025)```
++  Undergraduate Research Intern / Mechanical Engineering
++  
 **ETRI**(Electronics and Telecommunications Research Institute), Korea ```(01/2024 ~ 02/2024)```
 +  Research Intern / Autonomous Driving Intelligence Research Section
 
@@ -21,6 +24,9 @@ Computer Vision, Machine Learning, Autonomous Driving Intelligence
 
 
 ## 🎓 Education
+Master of Mechanical Engineering ```(03/2025 ~ Present)```
++ Yonsei University, Seoul
+
 Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 + Kyonggi University, Suwon
 
@@ -80,7 +86,7 @@ TERM|RANKING|Place|TOPIC
 + TOEIC Speaking IM3
 
 **Activities**
-+ Robot Operating & Autonomous Driving(RO:AD) Club ```(03/2022 ~ Present)```
++ Robot Operating & Autonomous Driving(RO:AD) Club ```(03/2022 ~ 12/2024)```
 + Student Council of AI Computer Science and Engineering ```(03/2021 ~ 12/2022)```
 + A member of SWAT’s service ```(08/2021 ~ 12/2021)```
 
