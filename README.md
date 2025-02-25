@@ -7,19 +7,19 @@
 I'm studying hard to become an 3D Vision AI engineer
 
 ## 💡 Research Interest
-Computer Vision(3D), Autonomous Driving Intelligence, novel view synthesis
+Computer Vision(3D), Autonomous Driving Intelligence, 3D Reconstruction
 
 ## 🖥️ Research Experiences
-**Yonsei University**, DAMIS LAB, Korea ```(07/2024 ~ 02/2025)```
-+  Undergraduate Research Intern / Mechanical Engineering
-+  
+**Yonsei University**, Korea ```(07/2024 ~ 02/2025)```
++  Undergraduate Research Intern / Mechanical Engineering / DAMIS LAB
+ 
 **ETRI**(Electronics and Telecommunications Research Institute), Korea ```(01/2024 ~ 02/2024)```
 +  Research Intern / Autonomous Driving Intelligence Research Section
 
 **Purdue University**, United States ```(03/2023 ~ 07/2023)```
 + Visiting Scholar / Department of Computer & Information Technology
 
-**AI Lab**, Kyonggi University, Korea ```(03/2022 ~ 12/2022)```
+**AI LAB**, Kyonggi University, Korea ```(03/2022 ~ 12/2022)```
 + Research Intern / Machine Learning, Reinforce Learning, Robotics
 
 
