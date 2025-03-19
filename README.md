@@ -40,7 +40,7 @@ Bachelor of AI Computer Engineering ```(03/2020 ~ 02/2025)```
 "Improved Re-identification Performance in Super-resolution Image based Protected Individuals Tracking System" **(1st Author)**
 ``` The 19th Asia Pacific International Conference on Information Science and Technology ```
 
-**[Korean Conference]**
+**[Domestic Conference]**
 
 
 "Real-Time Tracking of Protected Individuals and Population Congestion Analysis System" **(1st Author)**
